@@ -1,0 +1,5 @@
+These are the reqs for PlanShopEat
+
+Features:
+importing recipes from an xml file
+-each recipe gets its own tab
