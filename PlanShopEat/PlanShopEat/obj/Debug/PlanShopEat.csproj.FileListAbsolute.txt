@@ -1,1 +1,11 @@
 C:\PlanShopEat\PlanShopEat\PlanShopEat\bin\Debug\PlanShopEat.exe.config
+D:\PlanShopEat\PlanShopEat\PlanShopEat\bin\Debug\PlanShopEat.exe.config
+D:\PlanShopEat\PlanShopEat\PlanShopEat\bin\Debug\PlanShopEat.exe
+D:\PlanShopEat\PlanShopEat\PlanShopEat\bin\Debug\PlanShopEat.pdb
+D:\PlanShopEat\PlanShopEat\PlanShopEat\obj\Debug\PlanShopEat.csprojAssemblyReference.cache
+D:\PlanShopEat\PlanShopEat\PlanShopEat\obj\Debug\PlanShopEat.Main.resources
+D:\PlanShopEat\PlanShopEat\PlanShopEat\obj\Debug\PlanShopEat.Properties.Resources.resources
+D:\PlanShopEat\PlanShopEat\PlanShopEat\obj\Debug\PlanShopEat.csproj.GenerateResource.cache
+D:\PlanShopEat\PlanShopEat\PlanShopEat\obj\Debug\PlanShopEat.csproj.CoreCompileInputs.cache
+D:\PlanShopEat\PlanShopEat\PlanShopEat\obj\Debug\PlanShopEat.exe
+D:\PlanShopEat\PlanShopEat\PlanShopEat\obj\Debug\PlanShopEat.pdb
