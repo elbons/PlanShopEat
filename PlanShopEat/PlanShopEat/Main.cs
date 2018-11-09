@@ -16,5 +16,24 @@ namespace PlanShopEat
       {
          InitializeComponent();
       }
-   }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Maximized;
+        }
+
+        private void Main_Resize(object sender, System.EventArgs e)
+        {
+            int totalHeight = this.Height;
+            int totalWidth = this.Width;
+            int border = 2;
+
+            groupBoxDishes.Left = (totalWidth - border * 2) / 3 * 2;
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
