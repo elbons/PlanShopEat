@@ -30,10 +30,5 @@ namespace PlanShopEat
 
             groupBoxDishes.Left = (totalWidth - border * 2) / 3 * 2;
         }
-
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
