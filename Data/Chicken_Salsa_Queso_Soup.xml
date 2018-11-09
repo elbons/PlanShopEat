@@ -1,0 +1,22 @@
+<?xml version = "1.0"?>
+<collection Category="Entree">
+  <description>
+    some sort of description?
+  </description>
+  <recipe>
+    <title>Chicken Salsa Queso Soup</title>
+    <ingredient name="boneless skinless chicken" quantity="1" unit="pound"></ingredient>
+    <ingredient name="red salsa" quantity="1 1/3" unit="cup"></ingredient>
+    <preperation>
+      <step>
+        Instant Pot Directions:
+      </step>
+      <step>
+        Add chicken broth, salsa, sea salt, garlic powder, chipotle powder, black pepper, coriander, cumin, and parsley to the inner pot of the Instant Pot. Stir ingredients until combined.
+      </step>
+      <step>
+        Add the chicken thighs to the pot. Cover, lock the lid and turn the steam release handle to the Sealing position.
+      </step>
+    </preperation>
+  </recipe>
+</collection>
