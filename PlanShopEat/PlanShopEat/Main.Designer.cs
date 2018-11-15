@@ -46,8 +46,7 @@
             this.listBoxFoodChoices.Location = new System.Drawing.Point(13, 56);
             this.listBoxFoodChoices.Name = "listBoxFoodChoices";
             this.listBoxFoodChoices.Size = new System.Drawing.Size(280, 420);
-            this.listBoxFoodChoices.TabIndex = 0;
-            this.listBoxFoodChoices.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
+            this.listBoxFoodChoices.TabIndex = 0;            
             // 
             // labelFilter
             // 
